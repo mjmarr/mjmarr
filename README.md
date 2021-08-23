@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Matthew Marr.
-
 - 🏆 Certificates - BSc Computer Science
 - 💬 Languages: C#, Python, R, Java, Javascript, SQL
 - 💻 Technologies: Git, SQL, Azure, Docker
