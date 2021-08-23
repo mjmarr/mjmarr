@@ -1,0 +1,22 @@
+/* Theme */
+
+main {
+	background: #f0f0f0;
+	color: #4B5658;
+}
+
+.icons-social a {
+	color: #4B5658;
+}
+
+.icons-social a svg path{
+	fill: #4B5658;
+}
+.container {
+   text-align: center;
+ }
+
+.container pre {
+  display: inline-block;
+  text-align: left;
+ }
